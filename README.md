@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis PANNETIER</h1>
 <h3 align="center">A passionate fullstack developer from Bretagne</h3>
 
-- 💬 Ask me about **I ❤️ React & React Native**
+**I ❤️ React & React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
